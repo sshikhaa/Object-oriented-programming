@@ -26,3 +26,9 @@ int main(){
     return 0;
 
 }
+
+//OUTPUT:
+//Three args constructor called
+//Three args constructor called
+//Three args constructor called
+//Three args constructor called
