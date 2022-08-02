@@ -39,5 +39,4 @@ int main(){
 // 19
 
 
-// Friend Class : A friend class can access private and 
-//protected members of other class in which it is declared as friend.
+// Friend Class : A friend class can access private and protected members of other class in which it is declared as friend.
