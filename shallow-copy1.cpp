@@ -41,3 +41,22 @@ int main(){
 
     return 0;
 }
+
+//OUTPUT : 
+
+//D1 Initially
+//a :3
+//b :4
+//*p :5
+//D2 initially
+//a :3
+//b :4
+//*p :5
+// D2 after updating D2
+// a :8
+// b :9
+// *p :11
+// D1 after updating D2
+// a :3
+// b :4
+// *p :11
