@@ -39,3 +39,7 @@ int main(){
     f4.print();
     return 0; 
 }
+
+//Output:
+// 6 1
+// 5 1
