@@ -34,7 +34,9 @@ int main(){
     return 0;
 }
 
-
+//output
+// 5
+// 19
 
 
 // Friend Class : A friend class can access private and 
