@@ -36,7 +36,9 @@ class C : public B1, public B2{
 int main(){
     C obj; 
     //Problem 1: 'a' is present two times 
+    
     cout << "Size of C obj: " << sizeof(obj) << " bytes \n";
+    
     //Problem 2: The problem at this point is obj has two a's , now which 'a' is being referred
     //is ambiguous for the compiler
     //compiler ko lag raha hai 2 alag alag class hai A, to konse class ke a variable ki baat ho rahi hai, wo samajh nahi paa raha hai
